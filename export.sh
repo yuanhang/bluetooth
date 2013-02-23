@@ -1,1 +1,1 @@
-export DYLD_LIBRARY_PATH=~/workspace/playground/bluetooth/bluetoothServer
+export DYLD_LIBRARY_PATH=~/workspace/github/bluetooth
