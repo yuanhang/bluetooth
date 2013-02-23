@@ -38,7 +38,9 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <!--<mainClass>com.daxiongjun.app.RemoteDeviceDiscovery</mainClass>-->
-              <mainClass>com.daxiongjun.app.ServicesSearch</mainClass>
+              <!--<mainClass>com.daxiongjun.app.ServicesSearch</mainClass>-->
+              <mainClass>com.daxiongjun.app.ObexPutClient</mainClass>
+              <!--<mainClass>com.daxiongjun.app.OBEXPutServer</mainClass>-->
             </manifest>
           </archive>
         </configuration>
